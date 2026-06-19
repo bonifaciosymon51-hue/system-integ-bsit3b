@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hello World</h1>
+    <h1>Hello World wow</h1>
     <v-btn>Submit</v-btn>
   </div>
 </template>
